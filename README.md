@@ -1,6 +1,9 @@
 # Rule-based-Address-Parser
 An Vietnamese address parser that based on rules.
 
+> **Warning**
+> This repo is not maintained. Please visit the issues tab for data related questions.
+
 ## Table of Contents
 + [Example](#example)
 + [Requirements](#requirements)
