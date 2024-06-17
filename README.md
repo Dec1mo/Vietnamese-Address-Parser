@@ -11,7 +11,7 @@ An Vietnamese address parser that based on rules.
 + [Acknowledgments](#acknowledgments)
 
 ## Example <a name = "example"></a>
-It can parse a Vietnamese address into standard one.
+An unstructure Vietnamese address can be parsed into structured one.
 
 Input:
 ```
@@ -77,6 +77,5 @@ After the program finishes, we will get our Reference Address Table.
 
 ## Acknowledgments <a name = "acknowledgments"></a>
 + I have developed ner_data_parser module, which can transform data to train the ner model.
-+ This source code is messy and i'm looking forward to refactoring it in the future.
 
 
